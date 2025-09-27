@@ -72,7 +72,7 @@ O vídeo explicando o projeto (até 5 minutos) deve demonstrar:
 2. As telas criadas no WeWeb  
 3. O fluxo principal da aplicação  
 
-🔗 [Assista ao vídeo aqui](COLOQUE_AQUI_O_LINK_DO_VIDEO)  
+🔗 [Assista ao vídeo aqui](https://www.youtube.com/watch?v=W7bNtf89ZLM)  
 
 ---
 
