@@ -7,19 +7,21 @@ O sistema permite o **cadastro e listagem. Edição e exclusão de jogos(Em brev
 
 ---
 
-📦 Jogos-Supabase-weweb
+## 📂 Estrutura do Repositório  
+
+Jogos-Supabase-weweb
 ├── 📁 Diagrama DER
-│   └── Catálogo de Jogos.drawio.pdf   # Diagrama do banco de dados (DER)
+│ └── Catálogo de Jogos.drawio.pdf # Diagrama do banco de dados (DER)
 │
 ├── 📁 PrintsAPP
-│   ├── Adicionar.png                  # Tela de adição de jogos
-│   ├── Lista.png                      # Tela de listagem de jogos
-│   └── Principal.png                  # Tela principal do app
+│ ├── Adicionar.png # Tela de adição de jogos
+│ ├── Lista.png # Tela de listagem de jogos
+│ └── Principal.png # Tela principal do app
 │
 ├── 📁 Scripts SQL
-│   ├── Function.sql                   # Funções SQL do Supabase
-│   ├── Tabelas.sql                    # Estrutura das tabelas
-│   └── Views.sql                      # Criação de views no banco
+│ ├── Function.sql # Funções SQL do Supabase
+│ ├── Tabelas.sql # Estrutura das tabelas
+│ └── Views.sql # Criação de views no banco
 
 
 ## 🗂️ Modelo Lógico do Banco de Dados  
