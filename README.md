@@ -66,8 +66,7 @@ As telas desenvolvidas no **WeWeb** estão disponíveis na pasta:
 
 ---
 
-## 🎥 Vídeo de Apresentação  
-O vídeo explicando o projeto (até 5 minutos) deve demonstrar:  
+## 🎥 Vídeo de Apresentação    
 1. O banco de dados no Supabase (tabelas, view e função)  
 2. As telas criadas no WeWeb  
 3. O fluxo principal da aplicação  
