@@ -1,7 +1,7 @@
 # 🎮 Catálogo de Jogos – Supabase + WeWeb  
 
 ## 📌 Descrição do Projeto  
-Este projeto é um **Catálogo de Jogos** desenvolvido como trabalho da disciplina(**Projeto de Banco de Dados**), integrando **Supabase (back-end e banco de dados)** e **WeWeb (front-end)**.  
+Este projeto é um **Catálogo de Jogos** integrando **Supabase (back-end e banco de dados)** e **WeWeb (front-end)**.  
 
 O sistema permite o **cadastro e listagem. Edição e exclusão de jogos(Em breve!!!)**, possibilitando ao usuário gerenciar um catálogo completo.  
 
